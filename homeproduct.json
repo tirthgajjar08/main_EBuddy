@@ -1,0 +1,30 @@
+{
+    "homeproduct_list": [
+      {
+        "product_id": "66",
+        "create_date": "11/2/2023, 3:16:22 PM",
+        "seller_name": "Tirth Gajjar",
+        "sku_id": "1212",
+        "status": "Active",
+        "stock": "2",
+        "dilvery_charges": "200",
+        "category_name": "Mobile",
+        "sub_category_name": "iOS",
+        "product_brand": "Apple",
+        "product_name": "iPhone 13",
+        "product_image": "https://www.reliancedigital.in/medias/Apple-iPhone-13-Smartphones-491997702-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wzMDkzMTN8aW1hZ2UvanBlZ3xpbWFnZXMvaGI5L2gxMS85ODc4MTAyNjA1ODU0LmpwZ3w5NGFjNjk3MDQ1ZmU2Y2Q1YmY0ZTljZWM4N2JkMjdhNzE0ZmVlZDQxYzJhNjExNDdkZjY1MmQwYjQ2YTc0NWJm",
+        "product_mrpprice": "90908",
+        "product_price": "50999",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "color": "Blue",
+        "display": "15 cm (6.1-inch) Super Retina XDR display",
+        "processor": "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+        "os": " iOS 14",
+        "camera": "Advanced dual-camera system with 12MP Wide and Ultra Wide cameras; Photographic Styles, Smart HDR 4, Night mode, 4K Dolby Vision HDR recording",
+        "battery": "3800mAh",
+        "product_details": "(iPhone 13 128 GB, Blue, A15 Bionic chip with 6‑core CPU, 4‑core GPU and 16‑core Neural Engine)",
+        "id": 2
+      }
+    ]
+}

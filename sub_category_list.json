@@ -1,0 +1,52 @@
+{
+    "sub_category_list": [
+        {
+            "sub_category_id": "1",
+            "category_id": "1",
+            "sub_category_name": "android",
+            "category_name": "mobile"
+        },
+        {
+            "sub_category_id": "2",
+            "category_id": "1",
+            "sub_category_name": "ios",
+            "category_name": "mobile"
+        },
+        {
+            "sub_category_id": "3",
+            "category_id": "2",
+            "sub_category_name": "android",
+            "category_name": "tablet"
+        },
+        {
+            "sub_category_id": "4",
+            "category_id": "2",
+            "sub_category_name": "ios",
+            "category_name": "tablet"
+        },
+        {
+            "sub_category_id": "5",
+            "category_id": "3",
+            "sub_category_name": "windows",
+            "category_name": "laptop"
+        },
+        {
+            "sub_category_id": "6",
+            "category_id": "3",
+            "sub_category_name": "macos",
+            "category_name": "laptop"
+        },
+        {
+            "sub_category_id": "7",
+            "category_id": "4",
+            "sub_category_name": "windows",
+            "category_name": "computer"
+        },
+        {
+            "sub_category_id": "8",
+            "category_id": "4",
+            "sub_category_name": "macos",
+            "category_name": "computer"
+        }
+    ]
+}
